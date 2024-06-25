@@ -2,7 +2,7 @@
 
 # <UDF name="hostname" Label="Linode's Hostname" example="This is the first part of the Fully Qualified Domain Name. e.g. examplehost" />
 # <UDF name="fqdn_domain" Label="Domain for FQDN" example="The last part of the Fully Qualified Domain Name" />
-# <UDF name="timezone" Label="Time zone" example="e.g. Europe/Oslo />
+# <UDF name="timezone" Label="Time zone" example="e.g. Europe/Oslo" See https://bit.ly/NordicPinoyLab3zlQIZK for a list of timezones. />
 # <UDF name="ssuser" Label="New limited user" example="username" />
 # <UDF name="sspassword" Label="Limited user's password" example="Password" />
 # <UDF name="pubkey" Label="Paste your SSH public key" />
@@ -20,7 +20,7 @@
 # <UDF name="email" label="Drupal admin account's e-mail" />
 # <UDF name="drupal_sitename" label="Drupal Site Name" />
 # <UDF name="drupal_sitemail" label="Drupal Site E-mail" example="From: for system mailings. eg. admin@example.com" />
-# <UDF name="drupal_locale" label="Drupal Default Language" default="en" example="Language code. Defaults to en(English)." />
+# <UDF name="drupal_locale" label="Drupal Default Language" default="en" example="Language code. Defaults to en(English). See https://bit.ly/NordicPinoyLab-3xuk33x for supported languages and their language codes." />
 
 
 #### SYSTEM UPGRADE ###########################################################
