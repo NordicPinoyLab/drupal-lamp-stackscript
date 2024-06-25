@@ -1,6 +1,6 @@
 # HTTP/2 LAMP stack with Apache, MariaDB, PHP 8.3 (php-fpm), Acme (SSL), Composer, Drush, and Drupal
 
-A Linode StackScript compatible with Debian 12+ and Ubuntu 24.04+
+A StackScript for Linode/Akamai compatible with Debian 12+ and Ubuntu 24.04+
 
 ## Requirements
 
