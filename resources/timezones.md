@@ -1,4 +1,4 @@
-# Zones by Continent/Regio
+# Zones by Continent/Region
 
 Lifted from <https://manpages.debian.org/bookworm/libdatetime-timezone-perl/DateTime::TimeZone::Catalog.3pm.en.html>
 
